@@ -149,7 +149,7 @@ pre-commit run --all-files
 ---
 
 ## 12 · License
-MIT – özgürce kullan, yıldız bırakırsan ⭐ mutlu oluruz.
+MIT – 
 
 ---
 
